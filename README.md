@@ -204,7 +204,7 @@ Sometimes, things go wrong.  Rails has default error pages set up for 404, 422, 
 
 Now that you've seen how to implement validations, propagate the Active Record errors from your database models to the controller, and then pass the errors into the view, it's your turn!
 
-You're working on the structure of an app for a vet clinic to track owners and pets!  See [this repo](https://github.com/sf-wdi-30/rails_validations_errors) for the starter code and challenges.
+You're working on the structure of an app for a vet clinic to track owners and pets!  See [this repo](https://github.com/sf-wdi-30/rails-validations-errors-lab) for the starter code and challenges.
 
 ## Resources
 
